@@ -8,4 +8,5 @@ The data in this repository is from the Kaggle competition listed above and can 
 
 Most up to date model:
 
-![image](https://github.com/user-attachments/assets/3bf50bd2-de8e-4e3e-9d60-3457c4a0ac9a)
+<img width="1381" height="1078" alt="image" src="https://github.com/user-attachments/assets/ea27aa37-ea8b-4aff-906d-1042dbbbf85e" />
+
